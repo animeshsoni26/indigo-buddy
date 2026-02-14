@@ -415,9 +415,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
 
-Project Link: [https://github.com/yourusername/indigo-buddy](https://github.com/yourusername/indigo-buddy)
+Project Link: [https://github.com/animeshsoni26/indigo-buddy](https://github.com/animeshsoni26/indigo-buddy)
 
 ## 🗺️ Roadmap
 
