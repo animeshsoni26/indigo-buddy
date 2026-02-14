@@ -1,0 +1,26 @@
+# Core Dependencies
+boto3>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# AI/ML Libraries
+torch>=2.0.0
+transformers>=4.30.0
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4  # Use faiss-gpu if CUDA is available
+
+# NLP & Text Processing
+langchain>=0.1.0
+langchain-text-splitters>=0.0.1
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Optional: For GPU support
+# faiss-gpu>=1.7.4  # Uncomment if using CUDA
+
+# Development Dependencies (Optional)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.0.0
